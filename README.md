@@ -80,6 +80,8 @@ A comparação é feita entre:
 A simulação demonstrou que o lucro líquido apenas supera o cenário base quando o volume de vendas aumenta acima de aproximadamente **35%**.  
 Isso indica que a **elasticidade necessária para viabilizar a estratégia deve ser superior** à inicialmente assumida (-1,5), que previa um aumento de apenas 25%.
 
+![Comparação de Lucro](Gráfico_Markup.png)
+
 **8. Conclusão Estratégica**  
 
 A redução de preço não garante aumento de lucro. Para que a estratégia gere valor, o aumento de volume deve compensar integralmente a queda de margem.  
